@@ -10,24 +10,26 @@ header{
 }
 h1{
 	font-size: 70px;
-	color: white;
+	color: #002ea3;
 }
 
 header img{
 	border-radius: 60px;
 	width: 300px;
-	border: 15px solid #f2f26e
+	border: 15px solid #f2f2cf;
 }
 .content{
 	margin: 0 auto;
 	max-width: 900px;
 	padding: 0 20px;
+	text-align: center;
 }
 
 p.caption{
 	font-size: 16px;
 	color: red;
 	font-style: italic;
+	text-align: center;
 }
 
 a{
@@ -37,12 +39,8 @@ a{
 
 ul{
 	list-style: none;
-	padding: 0;
+	padding-bottom: 20px;
 	margin: 0;
-	text-align: center;
-}
-
-footer ul{
 	text-align: center;
 }
 
