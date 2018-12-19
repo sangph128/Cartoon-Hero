@@ -1,5 +1,5 @@
 html, body{
-	font-family: Arial, sans-serif;
+	font-family: "Comic Sans MS", cursive,sans-serif;
 	margin: 0;
 }
 
@@ -11,6 +11,7 @@ header{
 h1{
 	font-size: 70px;
 	color: #002ea3;
+	text-shadow: 0 8px 20px black;
 }
 
 header img{
